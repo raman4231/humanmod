@@ -1,7 +1,8 @@
-디스코드:e_t_ahuh
+디스코드 서버 주소
+https://discord.gg/8GDWgJnDNw
 
-친추후 steamID 채팅채널에 보내기
-(모드 파일 실행 불가시 친추)
+대화방 steamID 보내기(실행 불가 할시 만)
+
 
 Managed 에 Assembly-CSharp.dll 붙여넣기
 
