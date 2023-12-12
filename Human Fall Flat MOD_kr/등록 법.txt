@@ -1,7 +1,7 @@
 디스코드 서버 주소
 https://discord.gg/8GDWgJnDNw
 
-대화방 steamID 보내기(실행 불가 할시 만)
+대화방 steamID 보내기(나가주세요 보일시 미등록)
 
 
 Managed 에 Assembly-CSharp.dll 붙여넣기
