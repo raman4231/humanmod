@@ -4,7 +4,10 @@ https://discord.gg/8GDWgJnDNw
 대화방 steamID 보내기(나가주세요 보일시 미등록)
 
 
-업데이트버전:2023/12/16 해저 맵 버전
+Managed 에 Assembly-CSharp.dll 붙여넣기
+
+업데이트버전:2023/11/20 해저 맵 버전
+-라먹-
 
 모드:
 [매우 안정적】
