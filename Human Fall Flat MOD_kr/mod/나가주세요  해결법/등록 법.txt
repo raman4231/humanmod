@@ -2,6 +2,7 @@
 https://discord.gg/8GDWgJnDNw
 
 대화방 steamID 보내기(나가주세요 보일시 미등록)
+2024-02-01 부로 지인위주로 등록가능
 
 
 Managed 에 Assembly-CSharp.dll 붙여넣기
